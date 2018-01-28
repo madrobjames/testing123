@@ -11,26 +11,26 @@ Requirements
 
 Calculate Dividend Yield for given stock with given market price 
 
-Dividend Yield for TEA with market price 10.0 is: 0.0
-Dividend Yield for POP with market price 10.0 is: 0.8
-Dividend Yield for ALE with market price 10.0 is: 2.3
-Dividend Yield for GIN with market price 10.0 is: 1.0
-Dividend Yield for JOE with market price 10.0 is: 1.3
+    Dividend Yield for TEA with market price 10.0 is: 0.0
+    Dividend Yield for POP with market price 10.0 is: 0.8
+    Dividend Yield for ALE with market price 10.0 is: 2.3
+    Dividend Yield for GIN with market price 10.0 is: 1.0
+    Dividend Yield for JOE with market price 10.0 is: 1.3
 
 
 Calculate P/E Ratio for given stock with given market price 
 
-Dividend for Stock TEA is 0.
-PE Ratio for TEA with market price 100.0 is: Infinity
-PE Ratio for POP with market price 100.0 is: 12.5
-PE Ratio for ALE with market price 100.0 is: 4.3478260869565215
-PE Ratio for GIN with market price 100.0 is: 10.0
-PE Ratio for JOE with market price 100.0 is: 7.6923076923076925
+    Dividend for Stock TEA is 0.
+    PE Ratio for TEA with market price 100.0 is: Infinity
+    PE Ratio for POP with market price 100.0 is: 12.5
+    PE Ratio for ALE with market price 100.0 is: 4.3478260869565215
+    PE Ratio for GIN with market price 100.0 is: 10.0
+    PE Ratio for JOE with market price 100.0 is: 7.6923076923076925
 
 
 Record a trade, with timestamp, quantity of shares, buy or sell indicator and trade price 
 
-Trade:
+     Trade:
     Timestamp: Sat Nov 05 20:06:23 GMT 2016
     Stock : TEA
     Quantity: 100
@@ -41,14 +41,14 @@ Trade:
 
 Creating 3 trades for each stock
 
-Trade:
+      Trade:
     Timestamp: Sat Nov 05 20:06:23 GMT 2016
     Stock : GIN
     Quantity: 10
     Trade Indicator: BUY
     Trade Price: 22.0
 
-Trade:
+      Trade:
     Timestamp: Sat Nov 05 20:06:23 GMT 2016
     Stock : GIN
     Quantity: 20
